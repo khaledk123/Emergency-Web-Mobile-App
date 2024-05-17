@@ -1,0 +1,2 @@
+# Emergency Web-Mobile App
+ an emergency survival app with a distress button for sending location and messages to global emergency contacts. It includes live tracking and integrates with an IOT ESP32 watch with a website for registration and payments. Technologies used Flutter || Firebase Database || Google Maps API || Google Geolocation & Places API & SDKs APIs || Google Authentication || Dart || HTML || CSS || JS. 
